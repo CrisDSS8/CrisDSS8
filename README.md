@@ -5,17 +5,17 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v9.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
-    <img src="assets/banner-light.v9.svg" width="960" alt="Perfil DevOps de María Claudia">
+    <img src="assets/banner-light.v9.svg" width="960" alt="Perfil de Cristopher Damian">
   </picture>
 </a>
 
 <br>
 
-<a href="https://github.com/macu-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=F78CA0&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Maria+Claudia+%E2%80%94+DevOps+Engineer%3BInfrastructure+as+Code+%7C+CI%2FCD+%7C+Cloud+Native%3BContainers+%E2%80%A2+Kubernetes+%E2%80%A2+Observability%3BCafe+-+Retro+-+Music+-+Vibe+-+Chill+-+Tecnologia" alt="Banner animado con perfil DevOps">
+<a href="https://github.com/CrisDSS8">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=900&color=F78CA0&center=true&vCenter=true&width=900&lines=Cristopher+S%C3%A1nchez+%E2%80%94+Cybersecurity+Enthusiast%3BNetwork+Security+%7C+Pentesting+%7C+Ethical+Hacking%3BLinux+%E2%80%A2+Bash+%E2%80%A2+PowerShell+%E2%80%A2+Networking%3BCafe+-+Linux+-+Terminal+-+Cybersec" alt="Banner animado">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=macu-dev&style=flat&color=f78ca0&label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=CrisDSS8&style=flat&color=f78ca0&label=profile+views" alt="profile views">
 
 </div>
 
@@ -24,7 +24,7 @@
 ## `$ whoami`
 
 <p align="center">
-  <img src="assets/whoami-citypop.svg" width="960" alt="Terminal city-pop con el perfil de María Claudia, DevOps Engineer">
+  <img src="assets/whoami-citypop.svg" width="960" alt="Terminal city-pop con el perfil de Cristopher Damian, Computer Science Engineer">
 </p>
 
 <br>
@@ -41,40 +41,29 @@
   </thead>
   <tbody>
     <tr>
-      <td width="50%" valign="top"><code>├─ ☁ cloud_infrastructure:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=aws,azure,ansible" alt="AWS, Azure y Ansible"><br>
-        <sub><code>AWS · Azure · Ansible</code></sub>
+      <td width="50%" valign="top"><code>├─ 🛡️ cybersecurity_tools:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=linux,bash,cpp,py,figma" alt="Linux, Bash, C++, Python y Figma"><br>
+        <sub><code>Linux · Bash · C++ · Python · Figma</code></sub>
       </td>
-      <td width="50%" valign="top"><code>├─ ▣ databases_messaging:</code><br><br>
-        <img src="assets/icon-amazon-rds.svg" height="48" alt="Amazon RDS">
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb" alt="MySQL, PostgreSQL, MongoDB y DynamoDB"><br>
-        <sub><code>Amazon RDS · MySQL · PostgreSQL · MongoDB · DynamoDB</code></sub>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top"><code>├─ ⚙ containers_ci_cd:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=kubernetes,docker,githubactions,gitlab,bitbucket,bash" alt="Kubernetes, Docker, GitHub Actions, GitLab CI, Bitbucket y Bash"><br>
-        <sub><code>Kubernetes · Docker · GitHub Actions · GitLab CI · Bitbucket · Bash</code></sub>
-      </td>
-      <td valign="top"><code>├─ ◉ monitoring_observability:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=sentry,prometheus" alt="Sentry y Prometheus">
-        <img src="https://cdn.simpleicons.org/datadog/76d8d2?viewbox=auto" height="48" alt="Datadog">
-        <img src="assets/icon-amazon-cloudwatch.svg" height="48" alt="Amazon CloudWatch"><br>
-        <sub><code>Sentry · Prometheus · Datadog · Amazon CloudWatch</code></sub>
+      <td width="50%" valign="top"><code>├─ ✦ languages_frameworks:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=py,js,html,css,cpp" alt="Python, JavaScript, HTML, CSS y C++"><br>
+        <sub><code>Python · JavaScript · HTML · CSS · C++</code></sub>
       </td>
     </tr>
     <tr>
-      <td valign="top"><code>├─ ✦ languages_frameworks:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=nodejs,javascript,react,nextjs,typescript,python,fastapi" alt="Node.js, JavaScript, React, Next.js, TypeScript, Python y FastAPI"><br>
-        <sub><code>Node.js · JavaScript · React · Next.js · TypeScript · Python · FastAPI</code></sub>
+      <td width="50%" valign="top"><code>├─ 🐧 sysadmin_automation:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=linux,bash,powershell,git,github" alt="Linux, Bash, PowerShell, Git y GitHub"><br>
+        <sub><code>Linux · Bash · PowerShell · Git · GitHub</code></sub>
       </td>
-      <td valign="top"><code>╰─ ⌁ security_iac:</code><br><br>
-        <img src="https://cdn.simpleicons.org/trivy/f3d29b?viewbox=auto" height="48" alt="Trivy">
-        <img src="assets/icon-sonarqube.svg" height="48" alt="SonarQube">
-        <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform">
-        <img src="https://cdn.simpleicons.org/cilium/c7a4f5?viewbox=auto" height="48" alt="Cilium">
-        <img src="https://cdn.simpleicons.org/falco/76d8d2?viewbox=auto" height="48" alt="Falco"><br>
-        <sub><code>Trivy · SonarQube · Terraform · Cilium · Falco</code></sub>
+    </tr>
+    <tr>
+      <td valign="top"><code>├─ ✦ languages_scripting:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=py,js,cpp,c,bash,powershell" alt="Python, JavaScript, C++, C, Bash y PowerShell"><br>
+        <sub><code>Python · JavaScript · C++ · C · Bash · PowerShell</code></sub>
+      </td>
+      <td valign="top"><code>╰─ 🛠️ tools_and_security:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=linux,git,github,figma,matlab" alt="Linux, Git, GitHub, Figma y MATLAB"><br>
+        <sub><code>Linux · Git · GitHub · Figma · MATLAB</code></sub>
       </td>
     </tr>
   </tbody>
@@ -113,16 +102,13 @@
 
 <div align="center">
 
-<a href="https://www.instagram.com/diario_devops">
+<a href="https://www.instagram.com/cs_sant8">
   <img src="https://img.shields.io/badge/Instagram-f78ca0?style=for-the-badge&logo=instagram&logoColor=1a1a2e" alt="Instagram">
 </a>&nbsp;&nbsp;
-<a href="https://medium.com/@maraclaudiaprezescalante">
-  <img src="https://img.shields.io/badge/Medium-c7a4f5?style=for-the-badge&logo=medium&logoColor=1a1a2e" alt="Medium">
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mcperezes/">
+<a href="https://www.linkedin.com/in/cristopher-damian-s%C3%A1nchez-santiago-7841752a3/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>&nbsp;&nbsp;
-<a href="https://github.com/macu-dev">
+<a href="https://github.com/CrisDSS8">
   <img src="https://img.shields.io/badge/GitHub-f78ca?style=for-the-badge&logo=github&logoColor=1a1a221" alt="GitHub">
 </a>
 
@@ -132,5 +118,5 @@
 <br>
 
 <div align="center">
-<sub>Hecho con 💖 y mucho cafe desde Rosario, Argentina · @macu-dev</sub>
+<sub>Oh well, Whatever happens, happens... - Spike Spiegel</sub>
 </div>
